@@ -1,2 +1,2 @@
-#Virtual Machines and Vagrant
-##Installation and Use
+# Virtual Machines and Vagrant
+## Installation and Use
